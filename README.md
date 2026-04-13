@@ -112,9 +112,6 @@ evermart-powerbi-dashboard/
 ├── presentation/
 │   └── Project_Work_Grupo_B.pptx   # Presentazione del progetto
 │
-├── screenshots/
-│   └── dashboard_overview.png      # Screenshot del report
-│
 └── README.md                        # Questo file
 ```
 
